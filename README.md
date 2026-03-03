@@ -95,7 +95,7 @@ Track high-risk segments through quarterly attrition dashboards
 
 Add your dashboard screenshot below:
 
-![Dashboard Preview](dashboard_screenshot.png)
+![Dashboard Preview](dashboard/dashboard_screenshot.png)
 📁 Repository Structure
 HR-Analytics-Project/
 │

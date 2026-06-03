@@ -93,7 +93,7 @@ Track high-risk segments through quarterly attrition dashboards
 
 📷 Dashboard Preview
 
-Add your dashboard screenshot below:
+Added dashboard screenshot below:
 
 ![Dashboard Preview](dashboard/dashboard_screenshot.png)
 📁 Repository Structure
